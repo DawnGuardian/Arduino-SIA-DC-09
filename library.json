@@ -1,0 +1,21 @@
+{
+  "name": "Arduino-SIA-DC-09",
+  "description": "Library for composing and parsing, and also sending and receiving messages for the SIA DC-09 protocol.",
+  "keywords": "SIA, DC-09, protocol",
+  "authors": [
+    {
+      "name": "Anirudh M.B.",
+      "email": "anirudh@accessteq.com",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DawnGuardian/Arduino-SIA-DC-09"
+  },
+  "version": "1.0.0",
+  "frameworks": "Arduino",
+  "examples": [
+    "examples/*/*.cpp"
+  ]
+}

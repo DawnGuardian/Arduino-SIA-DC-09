@@ -1,0 +1,9 @@
+
+### MacOS ###
+**/.DS_Store
+
+### Windows ###
+**/desktop.ini
+
+### Storage compatibility artifacts ###
+**/._*
