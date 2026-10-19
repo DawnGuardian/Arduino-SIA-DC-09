@@ -15,4 +15,8 @@ This file is generated from the commit history -- do not edit it by hand.
 - **changelog**: Add a revert group to the git-cliff config
 - Sync cliff.toml with the canonical copy
 
+### Miscellaneous
+
+- Add the shared .editorconfig
+
 
