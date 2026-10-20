@@ -18,5 +18,7 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Miscellaneous
 
 - Add the shared .editorconfig
+- Update the shared .editorconfig
+- Add the shared .clang-format
 
 
